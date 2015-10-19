@@ -1,7 +1,8 @@
-name: null
+name: ablog
 favicon: null
 layout_spectrum: 0.3732628454454243
 typography_spectrum: 0.6592214545235038
+title: things on the internet
 cta:
   domain: null
   bucket: null
