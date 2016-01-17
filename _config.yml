@@ -2,7 +2,7 @@ name: ablog
 favicon: null
 layout_spectrum: 0.87878
 typography_spectrum: 0.81565
-title: dont read this
+title: null
 cta:
   domain: null
   bucket: null
