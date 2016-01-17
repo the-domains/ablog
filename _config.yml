@@ -1,7 +1,7 @@
 name: ablog
 favicon: null
-layout_spectrum: 0.3732628454454243
-typography_spectrum: 0.6592214545235038
+layout_spectrum: 0.87878
+typography_spectrum: 0.81565
 title: things on the internet
 cta:
   domain: null
@@ -16,9 +16,14 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.3762821869459003
-  lightness: 0.10267382487654686
-  saturation: 0.5438808794133365
-  rhythmicContrast: 0.22896087728440762
+  brandColors:
+    - '#080808'
+    - '#fefefe'
+    - '#42352d'
+    - '#6d7f83'
+    - '#afbdbc'
+  brandStrength: 0.3125
+  lightness: 0.5625
+  saturation: 0.625
+  rhythmicContrast: 0.5
 purpose: []
