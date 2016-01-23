@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Primary research curiosities, January 23rd'
-datePublished: '2016-01-23T18:22:03.944Z'
-dateModified: '2016-01-23T18:20:52.841Z'
+datePublished: '2016-01-23T18:27:32.258Z'
+dateModified: '2016-01-23T18:27:27.544Z'
 title: 'Space, and How to Avoid Novelty - Entry 1'
 author: []
 sourcePath: _posts/2016-01-23-space-and-how-to-avoid-novelty.md
@@ -22,6 +22,10 @@ url: space-and-how-to-avoid-novelty/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/66e68a39-0c6b-460f-8814-8aaa0be171b9.jpg)
+
+__
+
 _Space, and How to Avoid Novelty_
 
 Thursday's presentation of "High Jack" had a significant flaw, which was thankfully addressed, and then unfortunately remedied by poor examples and advice. Rather than attempt to streamline the process of embedding technology into a system that doesn't need it, we must focus on the question of "Why?"; why are we attempting to disrupt a system that has existed for centuries? The correct way to go about reinventing this system is to first ask why patrons are in a bar. Common sense points us to think that most bar-goers are seeking a direct social interaction with another person / people (unless of course, they are seeking no social interaction by rather a nulling of an inner social conversation. People drink when they're blue!). But this too can be held in question as novelty bars continue to appear and offer new interactive experiences\*. 
