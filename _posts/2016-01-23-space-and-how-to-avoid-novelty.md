@@ -1,14 +1,14 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: 'Primary research curiosities, January 23rd'
-datePublished: '2016-01-23T18:16:35.877Z'
-dateModified: '2016-01-23T18:15:19.287Z'
-title: 'Space, and How to Avoid Novelty'
+datePublished: '2016-01-23T18:18:01.049Z'
+dateModified: '2016-01-23T18:17:59.214Z'
+title: 'Space, and How to Avoid Novelty - Entry 1'
 author: []
 sourcePath: _posts/2016-01-23-space-and-how-to-avoid-novelty.md
 published: true
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: space-and-how-to-avoid-novelty/index.html
-_type: Article
+_type: WebPage
 
 ---
 _Space, and How to Avoid Novelty_
