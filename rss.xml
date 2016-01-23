@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[now in responsive flavors!]]></title>
+        <description><![CDATA[now in responsive flavors!]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 23 Jan 2016 18:13:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Space, and How to Avoid Novelty]]></title>
+            <description><![CDATA[<h1>Space, and How to Avoid Novelty</h1>]]></description>
+            <link>undefinedspace-and-how-to-avoid-novelty/index.html</link>
+            <guid isPermaLink="false">b0b7da18-a42c-4cb9-8ec9-8b9af53189ef</guid>
+            <pubDate>Sat, 23 Jan 2016 18:12:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
