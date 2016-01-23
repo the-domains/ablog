@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: 'Step one in a research project involving creating an "interactive bar" setting. January 23rd'
-datePublished: '2016-01-23T17:50:01.568Z'
-dateModified: '2016-01-23T17:49:52.130Z'
+datePublished: '2016-01-23T17:51:50.694Z'
+dateModified: '2016-01-23T17:51:47.983Z'
 title: 'Space, and How to Avoid Novelty'
 author: []
+sourcePath: _posts/2016-01-23-space-and-how-to-avoid-novelty.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-23-space-and-how-to-avoid-novelty.md
-published: true
-url: space-and-how-to-avoid-novelty/index.html
-_type: Article
+_type: Blurb
 
 ---
 _Space, and How to Avoid Novelty_
