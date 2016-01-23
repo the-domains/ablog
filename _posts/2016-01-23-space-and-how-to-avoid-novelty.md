@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Primary research curiosities, January 23rd'
-datePublished: '2016-01-23T18:19:07.214Z'
-dateModified: '2016-01-23T18:19:05.241Z'
+datePublished: '2016-01-23T18:22:03.892Z'
+dateModified: '2016-01-23T18:20:52.841Z'
 title: 'Space, and How to Avoid Novelty - Entry 1'
 author: []
 sourcePath: _posts/2016-01-23-space-and-how-to-avoid-novelty.md
