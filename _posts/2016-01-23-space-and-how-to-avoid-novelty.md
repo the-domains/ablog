@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Primary research curiosities, January 23rd'
-datePublished: '2016-01-23T18:32:57.815Z'
-dateModified: '2016-01-23T18:32:55.727Z'
+datePublished: '2016-01-23T20:43:37.659Z'
+dateModified: '2016-01-23T20:43:32.237Z'
 title: 'Space, and How to Avoid Novelty - Entry 1'
 author: []
 sourcePath: _posts/2016-01-23-space-and-how-to-avoid-novelty.md
@@ -22,13 +22,13 @@ url: space-and-how-to-avoid-novelty/index.html
 _type: Article
 
 ---
-![Stolen from the creative machine, Tumblr.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d303945e-8089-44f4-8863-34812710ad06.jpg)
+![Created by MVRDV.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fba55c6cc280aa391f988efd48df7fe65d9460fe.jpg)
 
 __
 
 _Space, and How to Avoid Novelty_
 
-Thursday's presentation of "High Jack" had a significant flaw, which was thankfully addressed, and then unfortunately remedied by poor examples and advice. Rather than attempt to streamline the process of embedding technology into a system that doesn't need it, we must focus on the question of "Why?"; why are we attempting to disrupt a system that has existed for centuries? The correct way to go about reinventing this system is to first ask why patrons are in a bar. Common sense points us to think that most bar-goers are seeking a direct social interaction with another person / people (unless of course, they are seeking no social interaction by rather a nulling of an inner social conversation. People drink when they're blue!). But this too can be held in question as novelty bars continue to appear and offer new interactive experiences\*. 
+This past Thursday the post grad students of George Brown's Interactive Media Management program presented "Hi-Jack", a vision for an interactive bar. While still being early in development, the presentation focused on embedding new technology in older, analogue systems. It was under this guise that the students believed they were adding layers of interactivity to an otherwise static institution. Unfortunately, the concept had one significant flaw (thankfully addressed by some of the admins). Rather than attempt to streamline the process of embedding technology into a system that doesn't need it, we must focus on the question of "Why?"; why are we attempting to disrupt a system that has existed for centuries? The correct way to go about reinventing this system is to first ask why patrons are in a bar. Common sense points us to think that most bar-goers are seeking a direct social interaction with another person / people (unless of course, they are seeking no social interaction by rather a nulling of an inner social conversation. People drink when they're blue!). But this too can be held in question as novelty bars continue to appear and offer new interactive experiences\*. 
 
 Goran Peuc recently penned an article for _Smashing Magazi__ne _titled "Nobody Wants to Use Your Product", which correctly asserts that users of a product are interested in the end result, and not the process that they have to go through to get there. Although the article is referring to products, websites, and applications, many of the ideas can be applied to space. 
 
