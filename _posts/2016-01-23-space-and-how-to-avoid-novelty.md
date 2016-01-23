@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Step one in a research project involving creating an "interactive bar" setting. January 23rd'
-datePublished: '2016-01-23T17:51:50.810Z'
-dateModified: '2016-01-23T17:51:47.983Z'
+datePublished: '2016-01-23T17:53:35.030Z'
+dateModified: '2016-01-23T17:53:30.148Z'
 title: 'Space, and How to Avoid Novelty'
 author: []
 sourcePath: _posts/2016-01-23-space-and-how-to-avoid-novelty.md
