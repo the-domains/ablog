@@ -1,39 +1,43 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: 'Step one in a research project involving creating an "interactive bar" setting. January 23rd'
-datePublished: '2016-01-23T17:53:35.133Z'
-dateModified: '2016-01-23T17:53:30.148Z'
+description: 'Primary research curiosities, January 23rd'
+datePublished: '2016-01-23T18:12:50.017Z'
+dateModified: '2016-01-23T18:12:22.635Z'
 title: 'Space, and How to Avoid Novelty'
 author: []
-sourcePath: _posts/2016-01-23-space-and-how-to-avoid-novelty.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-_type: Blurb
+sourcePath: _posts/2016-01-23-space-and-how-to-avoid-novelty.md
+published: true
+url: space-and-how-to-avoid-novelty/index.html
+_type: Article
 
 ---
 _Space, and How to Avoid Novelty_
 
-Thursday's presentation of "High Jack" had a significant flaw, which was thankfully addressed (and then unfortunately corrected by poor examples of novelty service establishments). This flaw is the question of "why?", mainly regarding the emphasis on embedding technology into a system that already works quite well. The correct way to reinvent a bar space is to first ask what patrons want when they go to a bar. I think common sense points us to think that most bar-goers are seeking a direct social interaction with another person (unless of course, they are seeking no social interaction but rather a nulling of an inner social conversation. People drink when they're blue!). But this too can be held in question as novelty bars continue to appear in an effort to build new interactive experiences.
+Thursday's presentation of "High Jack" had a significant flaw, which was thankfully addressed, and then unfortunately remedied by poor examples and advice. Rather than attempt to streamline the process of embedding technology into a system that doesn't need it, we must focus on the question of "Why?"; why are we attempting to disrupt a system that has existed for centuries? The correct way to go about reinventing this system is to first ask why patrons are in a bar. Common sense points us to think that most bar-goers are seeking a direct social interaction with another person / people (unless of course, they are seeking no social interaction by rather a nulling of an inner social conversation. People drink when they're blue!). But this too can be held in question as novelty bars continue to appear and offer new interactive experiences\*. 
 
-Goran Peuc recently penned an article for _Smashing Magazine _title "Nobody Wants to Use Your Product", which correctly asserts that users are interested in the end result, and not the process that they go through to achieve it. Although the paper is focusing on user interaction with a specific device, website, or application, many of the principals can be expanded to reflect a user interaction with _space._
+Goran Peuc recently penned an article for _Smashing Magazi__ne _titled "Nobody Wants to Use Your Product", which correctly asserts that users of a product are interested in the end result, and not the process that they have to go through to get there. Although the article is referring to products, websites, and applications, many of the ideas can be applied to space. 
 
-He argues several key points, the most relevant ones I will list here:
+He suggests several tools to use during product iteration, such as:
 
-* Intelligently employ a no-interface design. Our space should be as non-obtrusive as any other analogue bar, and maintain the common principal of a bar setting.
-* Design systems, not pieces. Focus should be on the interaction with space, not with the technology embedded into furniture.
-* And finally, that we should be working backwards to develop _results, not use._
+- Intelligently employ a no-interface design. 
 
-We need to consider the **layers of complexity **that a bar contains. What this means is calculating how many obstacles there are between a patron entering and engaging in what they are seeking.
+- Design systems, not pieces.
 
-For primary research, we must reach a consensus on what a patron is seeking when they go to a bar. Moving backwards from these results, we can determine those layers of complexity and offer ideas on how to address each one (It is also possible that these layers of complexity are employed intentionally by a space in order to promote certain emotions).
+- Work backwards to develop results, rather than use. 
+
+From this, I suggest that we focus on developing a space that is non obtrusive, and maintain the common principals of a bar setting. We also must focus on the interaction between patrons and the space, and how it can be reflected to encourage patrons to engage with each-other. To do this, we as a research group must consider the **layers of complexity **that a bar contains. This means examining the obstacles that a patron faces from the moment they walk through the door to the exact moment they achieve the end result they are seeking. 
+
+Primary research should start with a consensus on what patrons seek when they go to a bar, followed by narrowing it down to a general end result that our primary demographic would be seeking. Moving backwards from this, we can determine what each layer of complexity is, and which ones need to be addressed. We must also consider that a layer of complexity may be intentionally employed to encourage / promote a certain emotional response.
+
+Technology might have a place in the service industry, but I think the interactive bar is more than screens in the walls and wireless chargers in tables.
