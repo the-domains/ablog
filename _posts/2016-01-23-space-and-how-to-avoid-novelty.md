@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'Primary research curiosities, January 23rd'
-datePublished: '2016-01-24T01:30:15.881Z'
-dateModified: '2016-01-24T01:30:13.283Z'
+datePublished: '2016-01-31T23:56:45.546Z'
+dateModified: '2016-01-31T23:56:43.924Z'
 title: 'Space, and How to Avoid Novelty'
 author: []
 sourcePath: _posts/2016-01-23-space-and-how-to-avoid-novelty.md
@@ -22,12 +22,6 @@ url: space-and-how-to-avoid-novelty/index.html
 _type: Article
 
 ---
-![Created by MVRDV.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fba55c6cc280aa391f988efd48df7fe65d9460fe.jpg)
-
-__
-
-_Space, and How to Avoid Novelty_
-
 This past Thursday the post grad students of George Brown's Interactive Media Management program presented ["Hi-Jack"][0], a vision for an interactive bar. While still being early in development, the presentation focused on embedding new technology in older, analogue systems. It was under this guise that the students believed they were adding layers of interactivity to an otherwise static institution. Unfortunately, the concept had one significant flaw (thankfully addressed by some of the admins). Rather than attempt to streamline the process of embedding technology into a system that doesn't need it, we must focus on the question of "Why?"; why are we attempting to disrupt a system that has existed for centuries? The correct way to go about reinventing this system is to first ask why patrons are in a bar. Common sense points us to think that most bar-goers are seeking a direct social interaction with another person / people (unless of course, they are seeking no social interaction by rather a nulling of an inner social conversation. People drink when they're blue!). But this too can be held in question as novelty bars continue to appear and offer new interactive experiences\*. 
 
 Goran Peuc recently penned an article for _Smashing Magazi__ne _titled "Nobody Wants to Use Your Product", which correctly asserts that users of a product are interested in the end result, and not the process that they have to go through to get there. Although the article is referring to products, websites, and applications, many of the ideas can be applied to space. 
