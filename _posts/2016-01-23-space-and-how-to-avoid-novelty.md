@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Primary research curiosities, January 23rd'
-datePublished: '2016-02-01T01:24:57.000Z'
-dateModified: '2016-02-01T01:24:51.618Z'
+datePublished: '2016-02-06T22:16:55.532Z'
+dateModified: '2016-02-06T22:16:52.812Z'
 title: 'Space, and How to Avoid Novelty'
 author: []
 sourcePath: _posts/2016-01-23-space-and-how-to-avoid-novelty.md
@@ -22,7 +22,7 @@ url: space-and-how-to-avoid-novelty/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/22e45440-8d25-48dc-99c9-dae02b141601.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e250ef71040985ca956f29050f298ef222c75eb.jpg)
 
 This past Thursday the post grad students of George Brown's Interactive Media Management program presented ["Hi-Jack"][0], a vision for an interactive bar. While still being early in development, the presentation focused on embedding new technology in older, analogue systems. It was under this guise that the students believed they were adding layers of interactivity to an otherwise static institution. Unfortunately, the concept had one significant flaw (thankfully addressed by some of the admins). Rather than attempt to streamline the process of embedding technology into a system that doesn't need it, we must focus on the question of "Why?"; why are we attempting to disrupt a system that has existed for centuries? The correct way to go about reinventing this system is to first ask why patrons are in a bar. Common sense points us to think that most bar-goers are seeking a direct social interaction with another person / people (unless of course, they are seeking no social interaction by rather a nulling of an inner social conversation. People drink when they're blue!). But this too can be held in question as novelty bars continue to appear and offer new interactive experiences\*. 
 
