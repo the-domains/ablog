@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: Post 2
-datePublished: '2016-02-06T22:16:26.427Z'
-dateModified: '2016-02-06T22:16:22.887Z'
+description: '2'
+datePublished: '2016-02-06T22:18:37.845Z'
+dateModified: '2016-02-06T22:18:35.829Z'
 title: Immersive Toolkits and Social Toolkits
 author: []
 sourcePath: _posts/2016-01-31-immersive-toolkits-and-social-toolkits.md
