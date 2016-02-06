@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: Post 2
-datePublished: '2016-02-01T00:00:00.304Z'
-dateModified: '2016-01-31T23:59:57.841Z'
+datePublished: '2016-02-06T22:16:03.448Z'
+dateModified: '2016-02-01T01:25:22.873Z'
 title: Immersive Toolkits and Social Toolkits
 author: []
+sourcePath: _posts/2016-01-31-immersive-toolkits-and-social-toolkits.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-31-immersive-toolkits-and-social-toolkits.md
-published: true
 url: immersive-toolkits-and-social-toolkits/index.html
 _type: Article
 
