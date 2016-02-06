@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Post 2
-datePublished: '2016-02-06T22:16:03.448Z'
-dateModified: '2016-02-01T01:25:22.873Z'
+datePublished: '2016-02-06T22:16:26.427Z'
+dateModified: '2016-02-06T22:16:22.887Z'
 title: Immersive Toolkits and Social Toolkits
 author: []
 sourcePath: _posts/2016-01-31-immersive-toolkits-and-social-toolkits.md
@@ -22,7 +22,7 @@ url: immersive-toolkits-and-social-toolkits/index.html
 _type: Article
 
 ---
-![A still from Vincent Mahé's "Neighbours"](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3ad48b8-35b6-496f-a1b7-a914a16a349f.jpg)
+![A still from Vincent Mahé's "Neighbours"](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c2b2de4ff9306a37dc28ffedbf0de4d4c10108a9.jpg)
 
 All space has a behaviour prescribed to it (whether or not that prescription has a lasting effect or not is a discussion for another day). Libraries evoke a sense of focus and reflection; urban parks, when designed successfully, promote a sense of calmness and are inclusive of all; corporate headquarters are often inside of structures that speak to the might of man, something that is especially true for complexes of matching buildings such as the TD complex designed by Mies van der Rohe. _What behaviours are prescribed to a bar during its inception and operation? _Generally, a bar is a social space; a place to engage with a personal social toolkit. 
 
