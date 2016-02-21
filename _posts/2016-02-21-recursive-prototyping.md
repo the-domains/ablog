@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: February 21 - Post 4
-datePublished: '2016-02-21T15:12:47.125Z'
-dateModified: '2016-02-21T15:12:29.452Z'
+datePublished: '2016-02-21T15:13:15.869Z'
+dateModified: '2016-02-21T15:12:57.065Z'
 title: Recursive Prototyping
 author: []
 authors: []
