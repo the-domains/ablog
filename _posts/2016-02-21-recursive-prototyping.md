@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: February 21 - Post 4
-datePublished: '2016-02-21T16:21:21.991Z'
-dateModified: '2016-02-21T15:57:44.211Z'
+datePublished: '2016-02-22T15:12:15.435Z'
+dateModified: '2016-02-21T16:21:30.689Z'
 title: Recursive Prototyping
 author: []
 sourcePath: _posts/2016-02-21-recursive-prototyping.md
