@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "I was going to talk about consensus in the context of collaborative design, but I didn't feel like writing a fiction. The wounds are fresh, forgive me.\_"
-datePublished: '2016-03-14T14:49:35.069Z'
-dateModified: '2016-03-14T14:49:18.645Z'
+datePublished: '2016-03-14T14:52:37.478Z'
+dateModified: '2016-03-14T14:52:10.149Z'
 title: 'Monday, March 14th'
 author: []
 sourcePath: _posts/2016-03-14-monday-march-14th.md
@@ -32,4 +32,7 @@ _I was going to talk about consensus in the context of collaborative design, but
 
 - What are the implications of zoning delineation? Can we operate in a city with zoning principals rather than restrictions? \*Mention the school trying to build student residences in an employment zone. (Thanks for the tip Mom)
 
-- Should transit hubs be restricted to mixed housing? ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f3af2f1-45a4-4ac5-9487-889ca369b788.jpg)
+- Should transit hubs be restricted to mixed housing? 
+
+  
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c470b905a228549d2bdaacbcff1b459a6b72986.jpg)
