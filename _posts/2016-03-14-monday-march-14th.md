@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: "I was going to talk about consensus in the context of collaborative design, but I didn't feel like writing a fiction. The wounds are fresh, forgive me.\_"
-datePublished: '2016-03-14T13:55:08.736Z'
-dateModified: '2016-03-14T13:55:01.000Z'
+datePublished: '2016-03-14T13:57:06.469Z'
+dateModified: '2016-03-14T13:57:05.984Z'
 title: 'Monday, March 14th'
 author: []
+sourcePath: _posts/2016-03-14-monday-march-14th.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-14-monday-march-14th.md
-published: true
 url: monday-march-14th/index.html
 _type: Article
 
