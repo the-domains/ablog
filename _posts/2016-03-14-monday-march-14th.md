@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "I was going to talk about consensus in the context of collaborative design, but I didn't feel like writing a fiction. The wounds are fresh, forgive me.\_"
-datePublished: '2016-03-14T13:54:47.314Z'
-dateModified: '2016-03-14T13:54:43.969Z'
+datePublished: '2016-03-14T13:55:08.736Z'
+dateModified: '2016-03-14T13:55:01.000Z'
 title: 'Monday, March 14th'
 author: []
 authors: []
