@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: "Apologies about the missing post from last week.\_"
-datePublished: '2016-03-14T13:40:58.157Z'
-dateModified: '2016-03-14T13:39:27.070Z'
+datePublished: '2016-03-14T13:55:13.046Z'
+dateModified: '2016-03-14T13:54:56.935Z'
 title: Recursive Prototyping
 author: []
 sourcePath: _posts/2016-02-21-recursive-prototyping.md
