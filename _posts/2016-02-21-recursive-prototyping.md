@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Apologies about the missing post from last week.\_"
-datePublished: '2016-03-20T20:58:52.044Z'
-dateModified: '2016-03-14T15:00:14.711Z'
+datePublished: '2016-04-01T18:15:39.677Z'
+dateModified: '2016-04-01T18:15:31.598Z'
 title: Recursive Prototyping
 author: []
 sourcePath: _posts/2016-02-21-recursive-prototyping.md
