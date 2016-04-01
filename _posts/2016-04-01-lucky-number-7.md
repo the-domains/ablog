@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: On Laziness
-datePublished: '2016-04-01T18:44:49.258Z'
-dateModified: '2016-04-01T18:44:32.120Z'
+datePublished: '2016-04-01T18:45:11.568Z'
+dateModified: '2016-04-01T18:44:54.612Z'
 title: Lucky Number 7
 author: []
 sourcePath: _posts/2016-04-01-lucky-number-7.md
