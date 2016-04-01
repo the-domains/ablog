@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: On Laziness
-datePublished: '2016-04-01T18:44:17.173Z'
-dateModified: '2016-04-01T18:44:12.378Z'
+datePublished: '2016-04-01T18:44:49.258Z'
+dateModified: '2016-04-01T18:44:32.120Z'
 title: Lucky Number 7
 author: []
+sourcePath: _posts/2016-04-01-lucky-number-7.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-01-lucky-number-7.md
-published: true
 url: lucky-number-7/index.html
 _type: Article
 
